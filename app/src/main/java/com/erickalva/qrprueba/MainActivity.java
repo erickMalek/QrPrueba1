@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     Button btnScanner;
     public static final int REQUEST_CODE = 100;
     public static final int PERMISSION_REQUEST = 200;
-   // private ZXingScannerView scannerView;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
